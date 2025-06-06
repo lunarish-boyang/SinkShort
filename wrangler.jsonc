@@ -6,10 +6,10 @@
     "binding": "ASSETS",
     "directory": "dist/public"
   },
-  "compatibility_date": "2025-05-08",
   "compatibility_flags": [
     "nodejs_compat"
   ],
+  "compatibility_date": "2024-09-23"
   "keep_vars": true,
   "upload_source_maps": true,
   "ai": {
